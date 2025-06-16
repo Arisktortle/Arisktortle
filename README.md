@@ -1,5 +1,3 @@
 <h1 align="center">I'm Justin Rain</h1>
-<h3 align="center">A student passionate in the world of tech.</h3>
+<h3 align="center">A passionate Computer Engineering Student.</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
