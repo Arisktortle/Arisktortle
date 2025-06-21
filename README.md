@@ -1,5 +1,6 @@
 <h1 align="center">I'm Justin Rain</h1>
-<h3 align="center">A passionate Computer Engineering Student.</h3>
+<h3 align="center">“Motivation gets you going, but discipline keeps you growing.”
+— John C. Maxwell.</h3>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
